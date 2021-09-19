@@ -1,0 +1,120 @@
+Welcome to Premium Spoofer! *FiveM unban method*
+
+
+ _   _       _     _ _       
+| \ | |     (_)   | (_)      
+|  \| |_   ___  __| |_  __ _ 
+| . ` \ \ / / |/ _` | |/ _` |
+| |\  |\ V /| | (_| | | (_| |
+\_| \_/ \_/ |_|\__,_|_|\__,_|
+                             
+                             
+
+
+1) Go to - https://tb.rg-adguard.net/public.php
+2) Select Windows Final as the type
+3) Select Windows 10 2009 (20H2) as the version
+4) Select windows 10 as the edition
+5) Select your language
+6) Download the files
+7) Extract the ISO File and run the "setup.exe" file
+----------------------------------------------------
+8) Download the rockstar launcher, gta v - https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe
+9) Download discord "canary" - https://canary.discord.com/download (the normal build also works)
+10) Download steam - https://steam.com
+11) Download Premium Spoofer - https://bit.ly/3ztfouV
+12) Download Python 3.9.4 (mac changer) - https://www.python.org/downloads/release/python-394/ 
+----------------------------------------------------
+13) Make a brand new discord account
+14) Make a brand new rockstar account
+15) Make a brand new steam
+----------------------------------------------------
+16) Open CMD
+17) Type "wmic baseboard get Manufacturer,product"
+18) Google the product and Manufacturer
+19) Find a bios flash
+20) Flash your bios
+----------------------------------------------------
+21) Download revo uninstaller - https://www.revouninstaller.com/start-freeware-download/
+22) Remove all microsoft apps (xbox apps) besides microsoft store
+----------------------------------------------------
+23) Open your settings and search for manage your account
+24) Sign into a LOCAL ACCOUNT
+----------------------------------------------------
+25) Go into your 'C:\Windows\System32' folder and delete the following dll "nvml.dll" (this makes a error show when trying to find your uuid)
+                 (DO NOT update your nvidia gpu otherwise you'll get rebanned.)
+26) Open our spoofer and select games > FiveM > Y
+27) Restart your PC
+28) Restart your Router
+29) Spoof again
+30) Install FiveM
+31) Press your windows key and search for "add and remove apps"
+32) Delete Rockstar Games Social Club and Rockstar Games Launcher
+33) Open GTA V and let it download all the rockstar files
+34) Once GTA V successfully opens and starts loading close it
+35) Go to `C:\Program Files\Rockstar Games\Launcher` and open "Launcher.exe" and login with your NEW social club account
+36) Once it successfully signs you in close the launcher and open FiveM
+		(IF FIVEM DOESN'T OPEN PLEASE OPEN IT AGAIN)
+37) Download a VPN (proton VPN or avira) - https://www.avira.com/en/start-download/product/2262/-I12e2mvtstLKUkGnG-U3eKJ0vgZOswiEIJBWASCZ-5OJnvKAcoOl9K4ru2rcrYq
+38) Connect to a VPN server
+39) Login with your new rockstar account from step 14
+40) Wait 10 minutes
+41) Join a server.
+
+
+  ___  ___  ________ 
+ / _ \ |  \/  |  _  \
+/ /_\ \| .  . | | | |
+|  _  || |\/| | | | |
+| | | || |  | | |/ / 
+\_| |_/\_|  |_/___/  
+                     
+                     
+1) Skipped
+2) Skipped
+3) Skipped
+4) Skipped
+5) Skipped
+6) Skipped
+7) Skipped
+----------------------------------------------------
+8) Re-install the rockstar launcher, gta v - https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe
+9) Skipped
+10) Skipped
+11) Download Premium Spoofer - https://bit.ly/3ztfouV
+12) Download Python 3.9.4 (mac changer) - https://www.python.org/downloads/release/python-394/ 
+----------------------------------------------------
+13) Make a brand new discord account
+14) Make a brand new rockstar account
+15) Make a brand new steam
+----------------------------------------------------
+16) Open CMD
+17) Type "wmic baseboard get Manufacturer,product"
+18) Google the product and Manufacturer
+19) Find a bios flash
+20) Flash your bios
+----------------------------------------------------
+21) Download revo uninstaller - https://www.revouninstaller.com/start-freeware-download/
+22) Remove all microsoft apps (xbox apps) besides microsoft store
+----------------------------------------------------
+23) Open your settings and search for manage your account
+24) Sign into a LOCAL ACCOUNT
+----------------------------------------------------
+25) Open our spoofer and select games > FiveM > Y
+26) Restart your PC
+27) Restart your Router
+28) Spoof again
+29) Install FiveM
+30) Skipped
+31) Press your windows key and search for "add and remove apps"
+32) Delete Rockstar Games Social Club and Rockstar Games Launcher
+33) Open GTA V and let it download all the rockstar files
+34) Once GTA V successfully opens and starts loading close it
+35) Go to `C:\Program Files\Rockstar Games\Launcher` and open "Launcher.exe" and login with your NEW social club account
+36) Once it successfully signs you in close the launcher and open FiveM
+READ ME) IF FIVEM DOESN'T OPEN PLEASE OPEN IT AGAIN
+37) Download a VPN (proton VPN or avira) - https://www.avira.com/en/start-download/product/2262/-I12e2mvtstLKUkGnG-U3eKJ0vgZOswiEIJBWASCZ-5OJnvKAcoOl9K4ru2rcrYq
+38) Connect to a VPN server
+39) Login with your new rockstar account from step 14
+40) Wait 10 minutes
+41) Join a server.
